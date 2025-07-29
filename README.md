@@ -31,8 +31,8 @@ _Upload your resume and job description to get instant AI-powered analysis_
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/resumematcher-ai.git
-cd resumesync
+git clone https://github.com/yourusername/ResumeSync.git
+cd ResumeSync
 ```
 
 2. **Create a virtual environment**
@@ -78,7 +78,7 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```
-resumematcher-ai/
+ResumeSync/
 ├── app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
 ├── .env # Environment variables (not in repo)
@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/snigdha/resumesync/issues) page
+1. Check the [Issues](https://github.com/snigdha/ResumeSync/issues) page
 2. Create a new issue with detailed description
 3. Include error messages and screenshots if applicable
 
