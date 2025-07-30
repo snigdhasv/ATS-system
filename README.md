@@ -240,7 +240,3 @@ If you encounter any issues or have questions:
 - **Plotly** for beautiful data visualizations
 
 ---
-
-**Made with ❤️ by Snigdha**
-
-_Help job seekers land their dream jobs with AI-powered resume optimization_
